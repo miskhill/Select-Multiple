@@ -13,7 +13,7 @@
     }
 
     .inbox {
-      max-width: 400px;
+      max-width: 401px;
       margin: 50px auto;
       background: white;
       border-radius: 5px;
